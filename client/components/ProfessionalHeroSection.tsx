@@ -170,7 +170,7 @@ export default function ProfessionalHeroSection() {
 
       {/* Hero Content */}
       <motion.div
-        className="relative z-30 h-full flex items-center justify-center"
+        className="relative z-30 h-full flex items-center justify-center pt-24"
         style={{ y: textY }}
       >
         <div className="text-center px-6 max-w-6xl mx-auto">
@@ -188,7 +188,7 @@ export default function ProfessionalHeroSection() {
               Symposium
             </span>
             <span className="block text-finance-teal text-2xl md:text-4xl lg:text-5xl font-normal mt-4 drop-shadow-lg">
-              2025-2026
+              2026-2027
             </span>
           </motion.h1>
 
@@ -257,7 +257,7 @@ export default function ProfessionalHeroSection() {
 
           {/* Scroll Indicator */}
           <motion.div
-            className="mt-12 flex flex-col items-center justify-center cursor-pointer"
+            className="absolute bottom-24 left-1/2 transform -translate-x-1/2 cursor-pointer z-30"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 1, delay: 1.5 }}

@@ -62,7 +62,7 @@ const pastEvents: EventCard[] = [
   },
   {
     id: "flagship-event",
-    title: "Previous Flagship Conclave",
+    title: "Flagship Conclave",
     description:
       "Our premier annual event featuring top industry leaders, workshops, and competitions.",
     icon: Trophy,
@@ -134,7 +134,7 @@ const MobileEventCard: React.FC<{
               className="bg-white/10 hover:bg-white/20 text-white border border-white/20 hover:border-white/40 backdrop-blur-sm transition-all duration-300 mobile-touch-target"
             >
               <Eye className="w-4 h-4 mr-2" />
-              <span>View Details</span>
+              <span>{event.id === "flagship-event" ? "Flagship Conclave" : "View Details"}</span>
               <ChevronRight className="w-4 h-4 ml-2" />
             </Button>
           </div>

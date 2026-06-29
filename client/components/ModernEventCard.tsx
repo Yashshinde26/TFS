@@ -208,7 +208,7 @@ export const ModernEventCard: React.FC<ModernEventCardProps> = ({
                 className="group/btn bg-white/10 hover:bg-white/20 text-white border border-white/20 hover:border-white/40 backdrop-blur-sm transition-all duration-300"
               >
                 <Eye className="w-4 h-4 mr-2" />
-                <span>View Details</span>
+                <span>{event.id === "flagship-event" ? "Flagship Conclave" : "View Details"}</span>
                 <motion.div
                   animate={{
                     x: isHovered ? 4 : 0,

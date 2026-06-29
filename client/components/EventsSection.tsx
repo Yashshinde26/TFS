@@ -71,7 +71,7 @@ const pastEvents: EventCard[] = [
   },
   {
     id: "flagship-event",
-    title: "Previous Flagship Conclave",
+    title: "Flagship Conclave",
     description:
       "Our premier annual event featuring top industry leaders, workshops, and competitions.",
     icon: Trophy,

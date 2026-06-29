@@ -73,7 +73,7 @@ export function useEventsData() {
     const titleMap: { [key: string]: string } = {
       "saturday-sessions": "Saturday Sessions",
       "networking-events": "Networking Events",
-      "flagship-event": "The Finance Symposium 2026–2027",
+      "flagship-event": "Finance Symposium Conclave 2025–2027",
     };
     return titleMap[id] || id;
   };
