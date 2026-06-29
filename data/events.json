@@ -1,0 +1,48 @@
+{
+  "pastEvents": {
+    "saturday-sessions": {
+      "events": [
+        {
+          "title": "Saturday Seminar 1: Data Meets Finance",
+          "description": "Exploring the intersection of data analytics and financial decision-making"
+        },
+        {
+          "title": "Saturday Seminar 2: Banking 101: Demystifying India's Backbone",
+          "description": "Understanding the fundamentals of India's banking system"
+        }
+      ],
+      "comingSoon": false
+    },
+    "networking-events": {
+      "events": [
+      ],
+      "comingSoon": true
+    },
+    "flagship-event": {
+      "events": [
+        {
+          "title": "The Finance Symposium Conclave 2024-25",
+          "description": ""
+        }
+      ],
+      "comingSoon": false
+    }
+  },
+  "upcomingEvents": [
+    {
+      "id": "Conclave",
+      "title": "The Finance Symposium 2025-26",
+      "date": "2026-12-12",
+      "time": "10:00 AM - 4:00 PM",
+      "location": "St. Xavier's College, Mumbai - College Hall",
+      "description": "The Official Annual Business Conclave hosted by the BAF Department",
+      "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfL7hbou1b95bPxcz-rOIZjSAGYrAblP-Qt9azpbcAG-a8eug/viewform",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    }
+  ],
+  "lastModified": 1739884000000
+}

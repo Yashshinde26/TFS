@@ -1,0 +1,95 @@
+{
+  "sponsors": [
+    {
+      "id": "citizen-cooperative-bank",
+      "name": "Citizen Cooperative Bank",
+      "logo": "https://cdn.builder.io/api/v1/image/assets%2Fb448f3665916406e992f77bf5e7d711e%2Fec784fa823e24e5b9b1285f4ba0a99fb",
+      "industry": "Banking",
+      "description": "Cooperative banking institution dedicated to financial inclusion and community development.",
+      "isActive": false,
+      "website": "https://citizenbankdelhi.com"
+    },
+    {
+      "id": "saint-gobain",
+      "name": "Saint Gobain (through Mahantesh Associates)",
+      "logo": "https://cdn.builder.io/api/v1/image/assets%2Fb448f3665916406e992f77bf5e7d711e%2F5b52ce39d6834f09a442954d4ab0e362",
+      "industry": "Manufacturing",
+      "description": "Global leader in sustainable construction materials, partnering through Mahantesh Associates to enhance industry exposure.",
+      "isActive": false,
+      "website": "https://saint-gobain.com"
+    },
+    {
+      "id": "zest-global-education",
+      "name": "Zest Global Education",
+      "logo": "https://cdn.builder.io/api/v1/image/assets%2Fb448f3665916406e992f77bf5e7d711e%2F8d448a7548c345c0b5060392a99881c7",
+      "industry": "Education",
+      "description": "International education consultancy providing global opportunities and career guidance to students.",
+      "isActive": false,
+      "website": "https://zestglobaleducation.com"
+    },
+    {
+      "id": "iqas",
+      "name": "IQAS",
+      "logo": "https://cdn.builder.io/api/v1/image/assets%2Fb448f3665916406e992f77bf5e7d711e%2F6d57193e366e4d44b95dae677d4162dc",
+      "industry": "Quality Assurance",
+      "description": "Quality assurance and certification services provider supporting academic excellence standards.",
+      "isActive": false,
+      "website": "https://iqas.co.in"
+    },
+     {
+      "id": "ICICI",
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/Dhruv-dll/TFS-HELP-1/refs/heads/main/Icons/png2jpg/ICICI%20Bank_Co-branding_For%20Print.jpg",
+      "industry": "",
+      "description": "",
+      "isActive": false,
+      "website": "https://www.icici.bank.in/"
+    },
+    {
+      "id": "SBIGI",
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/Dhruv-dll/TFS-HELP-1/refs/heads/main/Icons/WhatsApp%20Image%202025-11-21%20at%2011.36.42_a9c49ff4.jpg",
+      "industry": "",
+      "description": "",
+      "isActive": false,
+      "website": "https://www.sbigeneral.in/"
+    },
+    {
+      "id": "KLAW",
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/Dhruv-dll/TFS_Final_3/refs/heads/main/Icons/KLAW%20LOGO.png",
+      "industry": "",
+      "description": "",
+      "isActive": false,
+      "website": "https://getklaw.com/"
+    },
+    {
+      "id": "EDNA",
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/Dhruv-dll/TFS_Final_3/refs/heads/main/Icons/png2jpg/EDUNATION.jpg",
+      "industry": "",
+      "description": "",
+      "isActive": false,
+      "website": "https://www.edunationacademy.co.in/"
+    },
+    {
+      "id": "SkinSoul",
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/Dhruv-dll/TFS_Final_3/refs/heads/main/Icons/Skin%20Soul%20for%20Ypu.jpg",
+      "industry": "",
+      "description": "",
+      "isActive": false,
+      "website": "https://www.skinsoul.in/"
+    },
+    {
+      "id": "zuma",
+      "name": "",
+      "logo": "https://raw.githubusercontent.com/Dhruv-dll/TFS_Final_3/refs/heads/main/Icons/zuma%20Logo%20Version%2001.png",
+      "industry": "",
+      "description": "",
+      "isActive": false,
+      "website": ""
+    }
+  ],
+  "lastModified": 1763624944455
+}
