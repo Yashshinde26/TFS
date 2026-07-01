@@ -29,7 +29,7 @@ const sponsors: Sponsor[] = [
   {
     id: "EDNA",
     name: "Edunation Academy",
-    logo: "https://raw.githubusercontent.com/Dhruv-dll/TFS_Final_3/refs/heads/main/Icons/png2jpg/EDUNATION.jpg",
+    logo: "/Icons/png2jpg/EDUNATION.jpg",
     industry: "Education",
     description:
       "Educational institution focused on career-oriented training and skill development.",
@@ -39,7 +39,7 @@ const sponsors: Sponsor[] = [
   {
     id: "ICICI",
     name: "ICICI Bank",
-    logo: "https://raw.githubusercontent.com/Dhruv-dll/TFS-HELP-1/refs/heads/main/Icons/png2jpg/ICICI%20Bank_Co-branding_For%20Print.jpg",
+    logo: "/Icons/png2jpg/ICICI Bank_Co-branding_For Print.jpg",
     industry: "Banking",
     description:
       "One of India's leading private sector banks offering a wide range of financial services.",
@@ -59,7 +59,7 @@ const sponsors: Sponsor[] = [
   {
     id: "KLAW",
     name: "KLAW",
-    logo: "https://raw.githubusercontent.com/Dhruv-dll/TFS_Final_3/refs/heads/main/Icons/KLAW%20LOGO.png",
+    logo: "/Icons/png2jpg/KLAW LOGO.jpg",
     industry: "Legal Services",
     description:
       "Professional legal firm providing comprehensive business and corporate advisory services.",
@@ -79,7 +79,7 @@ const sponsors: Sponsor[] = [
   {
     id: "SBIGI",
     name: "SBI General Insurance",
-    logo: "https://raw.githubusercontent.com/Dhruv-dll/TFS-HELP-1/refs/heads/main/Icons/WhatsApp%20Image%202025-11-21%20at%2011.36.42_a9c49ff4.jpg",
+    logo: "/Icons/WhatsApp Image 2025-11-21 at 11.36.42_a9c49ff4.jpg",
     industry: "Insurance",
     description:
       "Leading general insurance company offering customized risk solutions for corporate and retail customers.",
@@ -89,7 +89,7 @@ const sponsors: Sponsor[] = [
   {
     id: "SkinSoul",
     name: "Skin Soul",
-    logo: "https://raw.githubusercontent.com/Dhruv-dll/TFS_Final_3/refs/heads/main/Icons/Skin%20Soul%20for%20Ypu.jpg",
+    logo: "/Icons/Skin Soul for Ypu.jpg",
     industry: "Cosmetics",
     description:
       "Premium skincare brand offering high-quality cosmetic and aesthetic treatment solutions.",
@@ -109,7 +109,7 @@ const sponsors: Sponsor[] = [
   {
     id: "zuma",
     name: "Zuma",
-    logo: "https://raw.githubusercontent.com/Dhruv-dll/TFS_Final_3/refs/heads/main/Icons/zuma%20Logo%20Version%2001.png",
+    logo: "/Icons/png2jpg/zuma Logo Version 01.jpg",
     industry: "Consulting",
     description:
       "Strategic consulting partner offering marketing, design, and operations solutions.",

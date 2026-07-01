@@ -1,21 +1,25 @@
 {
   "faculty": [
     {
-      "id": "neenam-shetty",
-      "name": "Dr. Neenam Shetty",
-      "title": "Vice Principal – Commerce",
-      "bio": "Dr. Neenam Shetty is Vice Principal – Commerce at St. Xavier's College, Mumbai.",
+      "id": "neelam-shetty",
+      "name": "Dr. Neelam Shetty",
+      "title": "Vice Principal (Commerce)",
+      "bio": "Dr. Neelam Shetty, Vice Principal (Commerce), holds an M.Com., PGDBA, M.Phil., and a Ph.D. With over 17 years of professional experience bridging the corporate sector and academia, her research interests include Entrepreneurship and Work-Life Balance.",
       "image": "/placeholder.svg",
-      "email": "neenam.shetty@xaviers.edu",
+      "email": "neelam.shetty@xaviers.edu",
       "linkedin": "",
       "achievements": [
-        "Vice Principal – Commerce"
+        "Vice Principal (Commerce)",
+        "M.Com., PGDBA, M.Phil., and Ph.D.",
+        "Over 17 years of professional experience",
+        "Former Visiting Lecturer at the London School of Business and Finance",
+        "TEDx Speaker (\"Being the Entrepreneur of Your Life\")"
       ],
       "expertise": [
-        "Commerce",
-        "Management"
+        "Management Studies",
+        "Entrepreneurship"
       ],
-      "quote": "Shaping the future of commerce education through academic excellence."
+      "quote": "Inspiring students to become the entrepreneurs of their own lives through a blend of practical training and academic rigor."
     },
     {
       "id": "sanjay-parab",
@@ -41,15 +45,24 @@
     },
     {
       "id": "faculty-1757600809665",
-      "name": "Fr. Ambrose Machado SJ",
-      "title": "Head of Department – BAF",
-      "bio": "Faculty at BAF department in St. Xaviers College",
+      "name": "Fr. Ambrose Machado, S.J.",
+      "title": "Head of Department (BAF) and Assistant Professor",
+      "bio": "Fr. Ambrose Machado, S.J., Head of Department (BAF) and Assistant Professor, holds an M.Com. degree. With 8 years of teaching experience, his research interests include Finance, Banking, and Insurance.",
       "image": "",
       "email": "Ambrose.Machado@xaivers.edu",
       "linkedin": "",
-      "achievements": [],
-      "expertise": [],
-      "quote": ""
+      "achievements": [
+        "Head of Department (BAF)",
+        "M.Com.",
+        "8 years of teaching experience"
+      ],
+      "expertise": [
+        "Finance",
+        "Banking",
+        "Insurance",
+        "Academic Administration"
+      ],
+      "quote": "Dedicated to fostering academic excellence and a spirit of social responsibility within the commerce department."
     },
     {
       "id": "kamalika-ray",
@@ -159,13 +172,13 @@
       "isLeadership": true
     },
     {
-      "id": "eesha-teoti",
-      "name": "Eesha Teoti",
+      "id": "eesha-teotia",
+      "name": "Eesha Teotia",
       "title": "Vice Chairperson – Management, The Finance Symposium (TFS)",
-      "bio": "Eesha Teoti is the Vice Chairperson – Management at The Finance Symposium (TFS), overseeing internal operations, event management, and team coordination at St. Xavier's College, Mumbai.",
+      "bio": "Eesha Teotia is the Vice Chairperson – Management at The Finance Symposium (TFS), overseeing internal operations, event management, and team coordination at St. Xavier's College, Mumbai.",
       "image": "/placeholder.svg",
-      "email": "eesha.teoti@student.xaviers.edu",
-      "linkedin": "eesha-teoti",
+      "email": "eesha.teotia@student.xaviers.edu",
+      "linkedin": "eesha-teotia",
       "achievements": [
         "Vice Chairperson – Management, The Finance Symposium (TFS)",
         "Operations Lead, Malhar",

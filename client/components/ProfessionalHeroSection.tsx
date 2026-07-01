@@ -170,7 +170,7 @@ export default function ProfessionalHeroSection() {
 
       {/* Hero Content */}
       <motion.div
-        className="relative z-30 h-full flex items-center justify-center pt-24"
+        className="relative z-30 h-full flex items-center justify-center pt-16"
         style={{ y: textY }}
       >
         <div className="text-center px-6 max-w-6xl mx-auto">
